@@ -1,2 +1,2 @@
-# python-api-challenge
+# API-challenge
 Week 6 API Homework
